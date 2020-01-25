@@ -8,8 +8,11 @@ Now go to Troubleshoot > Advanced options > Startup Settings > click Restart
 
 After the restart u will get a Startup Settings page, press F7 to go into disable driver signature enforcement.
 
-- Now extract the downloaded driver file "Realtek_HDA_CTAPO_v6.0*****.7z".
+- Download driver "Realtek_HDA_CTAPO_v6.0*****.7z" from here [![Github all releases](https://img.shields.io/github/downloads/shibajee/realtek-hda-creative-sbc-mod/total.svg)](https://github.com/shibajee/realtek-hda-creative-sbc-mod/releases/) and extract it.
+
 - Go to FF00_PG475_CTAPO folder and double click Setup.exe.
+
+![alt text](https://i.postimg.cc/9QDrtMSq/Untitled-2.png)
 
 Continue with the warning sign and click Install this driver software anyway. Do not restart, select I will restart my computer later.
 
