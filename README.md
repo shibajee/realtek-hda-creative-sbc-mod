@@ -20,13 +20,11 @@ Continue with the warning sign and click Install this driver software anyway. Do
 
 - Now go to SBConnect2 folder and install "CreativeSBConnect2MasterInstallerOEM.exe", uncheck the launch SBConnect now box at the end of the installation.
 
-- We need to generate a license file for SBConnect2 software, we will do it with the "GenKGA3.1.exe" file which is located in GenKGA folder. Right click on "GenKGA3.1.exe" and select Run as Administrator, click yes in the popup. Now press Win Key+R and type C:\ProgramData\Creative\SoftwareLock and hit enter. Delete all files except CTLNBK2HX2.
+- We have to activate the installed software. Go to GenKGA folder and run GenKGA.bat as administrator, activation will be done  automatically.
 
 (Some antivirus might detect GenKGA3.1.exe as a false posivite as like any other self made exe file, the source of GenKGA file can be found [HERE](https://pastebin.com/BHnvBYWD). Just disable ur antivirus/realtime protection or made the whole setup folder as a safe folder in antivirus.)
 
 - Restart ur PC again. If everything is ok, SBConnect2 will launch automatically after the restart. Play a music file and try different presets in SBConnect app to ensure that creative effects r working properly.
-
-If u have problem with installing the whole process, see the video instructions --> [Part 1](https://streamable.com/agyvf) & [Part 2](https://streamable.com/83o37).                                                                                                         
 
 
 
