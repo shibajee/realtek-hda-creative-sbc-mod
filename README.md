@@ -1,6 +1,6 @@
 ## Instructions:
 - First uninstall current realtek audio driver.
-- Restart ur PC with Disable driver signature enforcement: (The procedure below is for Win 10. Win 7 and 8/8.1 has slightly different steps to go into this mode, pls search google/youtube for that)
+- Restart ur PC with Disable driver signature enforcement: (The procedure below is for Win 10/11. Win 7 and 8/8.1 has slightly different steps to go into this mode, pls search google/youtube for that)
 
 Go to Settings > Update & Security > Recovery > Advanced startup > click Restart now
 
@@ -10,9 +10,9 @@ After the restart u will get a Startup Settings page, press F7 to go into disabl
 
 - Download driver "Realtek_HDA_CTAPO_v6.0*****.7z" from here [![Github all releases](https://img.shields.io/github/downloads/shibajee/realtek-hda-creative-sbc-mod/total.svg)](https://github.com/shibajee/realtek-hda-creative-sbc-mod/releases/) and extract it.
 
-- Go to FF00_PG475_CTAPO folder and double click Setup.exe.
+- Go to FF00_PG4**_CTAPO folder and double click Setup.exe.
 
-![alt text](https://i.postimg.cc/9QDrtMSq/Untitled-2.png)
+![alt text](/img/warning.png)
 
 Continue with the warning sign and click Install this driver software anyway. Do not restart, select I will restart my computer later.
 
@@ -29,14 +29,14 @@ Continue with the warning sign and click Install this driver software anyway. Do
 
 
 
-![alt text](https://i.postimg.cc/QC4wrnkz/Capture.png)
+![alt text](/img/creative.png)
 
 
 ## FAQ:
 
 - Which Windows version is compatible ?
 
-Windows 7 to 10. (For Win 10 I'll probably make a UAD version of the mod)
+Windows 7, 8.1, 10/11.
 
 - Both 32bit and 64bit ?
 
@@ -52,4 +52,4 @@ No, I like things simple and lightweight.
 
 - Any update schedule for driver ?
 
-At least once in every month.
+When I have free time.
